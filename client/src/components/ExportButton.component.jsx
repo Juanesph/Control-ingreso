@@ -1,6 +1,6 @@
 import React from 'react';
 import { CSVLink } from 'react-csv';
-import * as XLSX from 'xlsx';
+/* import * as XLSX from 'xlsx'; */
 import { SiMicrosoftexcel } from "react-icons/si";
 
 const ExportButton = ({ data, fileName }) => {

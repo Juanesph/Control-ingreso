@@ -1,6 +1,5 @@
 import './App.css';
 import FileUploader from './components/fileUploader.component';
-import FileUploader1 from './components/fileUploader1.component';
 
 
 
